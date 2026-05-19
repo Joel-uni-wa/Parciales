@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Juego de Colores</string>
+    <string name="game_title">Juego de Colores</string>
+    <string name="rules_title">Reglas del Juego</string>
+    <string name="rule_1">Presiona el botón que coincida con el color mostrado</string>
+    <string name="rule_2">Tienes 30 segundos por partida</string>
+    <string name="rule_3">Cada acierto suma 1 punto</string>
+    <string name="rule_4">¡Intenta superar tu récord histórico!</string>
+    <string name="start_game">Iniciar Juego</string>
+    <string name="score_label">Puntaje</string>
+    <string name="result_title">¡Juego Terminado!</string>
+    <string name="final_score_label">Puntaje Final</string>
+    <string name="high_score_label">Récord Histórico</string>
+    <string name="history_label">Historial de Partidas</string>
+    <string name="play_again">Jugar de Nuevo</string>
+</resources>
